@@ -15,11 +15,11 @@ touch = 5   # 日均接触人群数
 
 ####先测试一下不同隔离程度的感染状况
 
-![image](https://github.com/rayzzy/sir_model/blob/master/pic1.gif) 
+![image](https://github.com/rayzzy/sir_model/blob/master/pic1.png) 
 
-#### 接触3人，无医疗的传播过程图
+#### 人均接触3人，无医疗的传播过程图
 ![image](https://github.com/rayzzy/sir_model/blob/master/propa3.gif) 
-#### 接触5人，无医疗的传播过程图
+#### 人均接触5人，无医疗的传播过程图
 ![image](https://github.com/rayzzy/sir_model/blob/master/propa.gif) 
 
 
@@ -43,15 +43,15 @@ touch = 4   # 日均接触人群数
 
 #### 测试一下20张床，疫情起飞了
 
-![image](https://github.com/rayzzy/sir_model/blob/master/cure20.gif) 
+![image](https://github.com/rayzzy/sir_model/blob/master/cure20.png) 
 
 #### 100张床，基本有效果了
 
-![image](https://github.com/rayzzy/sir_model/blob/master/cure100.gif) 
+![image](https://github.com/rayzzy/sir_model/blob/master/cure100.png) 
 
 #### 200张床，100天内基本快压制住疫情了
 
-![image](https://github.com/rayzzy/sir_model/blob/master/cure200.gif) 
+![image](https://github.com/rayzzy/sir_model/blob/master/cure200.png) 
 
 #### 200张床传播及治疗过程图
 ![image](https://github.com/rayzzy/sir_model/blob/master/cured.gif) 
