@@ -56,4 +56,4 @@ touch = 4   # 日均接触人群数
 #### 200张床传播及治疗过程图
 ![image](https://github.com/rayzzy/sir_model/blob/master/cured.gif) 
 
-以上基本是全部内容了，时间有限，模型非常简陋，供参考
+以上基本是全部内容了，时间有限，模型非常简陋，供参考，代码在另个文件里
